@@ -1,0 +1,24 @@
+tr{
+    text-align: center;
+}
+.cl1{
+    
+    text: indent 8px;;
+}
+.but1{
+    background-color: midnightblue;
+    color: white;
+    border-radius: 15px;
+}
+.but2{background-color: green;
+    color: white;
+    border-radius: 15px;
+
+}
+div{
+    text-align: center;
+}
+.table2{
+    border-collapse: collapse;
+    background-color: cornflowerblue;
+}
